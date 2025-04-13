@@ -681,10 +681,7 @@ p {
   border-radius: 10px;
 }
 
-.red-border {
-  border: 5px solid red;
-  border-radius: 15px; /* opsional, biar tetap ada sudut melengkung */
-}
+
 
 
 
